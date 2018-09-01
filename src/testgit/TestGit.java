@@ -5,6 +5,7 @@
  */
 package testgit;
 
+
 /**
  *
  * @author joaquimnot
@@ -18,6 +19,12 @@ public class TestGit {
         
         
         // TODO code application logic here
+    }
+    
+    public abstract class Produto{
+        
+        private int Cod;
+        private String nome;
     }
     
 }
